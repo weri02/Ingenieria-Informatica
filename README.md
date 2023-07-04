@@ -11,6 +11,8 @@ Las soluciones están clasificadas por asignatura, año y semestre. En algunas p
     - 2023 2o Semestre
 - Fundamentos de programación
     - 2023 1r Semestre
+- Lógica
+    - 2023 2o Semestre
 ```
 
 # FAQ
